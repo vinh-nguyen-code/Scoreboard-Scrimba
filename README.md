@@ -6,30 +6,27 @@ This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https:
 
 - [Overview](#overview)
   - [Requirements](#requirements)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Getting Started with Create React App](#getting-started-with-create-react-app)
-- [My process](#my-process)
+
+- [Process](#process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 - [Author](#author)
 
 ## Overview
 
-### The challenge
+### Goals
 
-- Display basketball scores according to a Figma design. 
+- Display basketball scores following a Figma design. 
 - Built from scratch.
-
-### Screenshot
-
-![screenshot](/src/screenshots/screenshot.png)
+- Make all buttons work
 
 ### Links
 
-- Live Site: [LIVE](https://basket-scoreboard-vinh.netlify.app)
+- Live Site: [DEMO](https://basket-scoreboard-vinh.netlify.app)
+
+## Process
 
 ### Built with
 
@@ -40,19 +37,14 @@ This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https:
 
 ### What I learned
 
-React basis like:
+- Flex box
+- Semantic HTML
+- DOM
 
-- Event listeners
-- State
-- Conditional rendering
-- Forms
-- Side effects
-
-### Continued development
-
-I'd like to:
-
-- Add a button to download meme generated including texts
+I have continued with these stretch goals:
+- Add Reset buttons to reset points to 0
+- Change hover and active states to buttons
+- Adapt the overall design
 
 ### Acknowledgmenets
 
