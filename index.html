@@ -3,30 +3,34 @@
         <link rel="stylesheet" href="index.css">
     </head>
     <body>
-        <div class="container">
-            <div>
-                <h3>DOMICILE</h3>
-                <div class = "screen">
-                     <h1 id="score-home"></h1>
-                </div>  
-                <div class ="btn-container">
-                    <button class ="btn" onclick="add1home()">+1</button>
-                    <button class ="btn" onclick="add2home()">+2</button>
-                    <button class ="btn" onclick="add3home()">+3</button>       
-                </div>       
+        <main>
+            <div class="container">
+                <div>
+                    <h2>HOME</h2>
+                    <div class = "screen">
+                         <h1 id="score-home"></h1>
+                    </div>  
+                    <div class ="btn-container">
+                        <button class ="btn" onclick="add1home()">+1</button>
+                        <button class ="btn" onclick="add2home()">+2</button>
+                        <button class ="btn" onclick="add3home()">+3</button>     
+                    </div>  
+                    <button class = "btn reset" onclick ="resetHome()">RESET</button>       
+                </div>
+                <div>
+                    <h2>GUEST</h2>
+                    <div class = "screen">
+                         <h1 id="score-guest"></h1>
+                    </div>  
+                    <div class ="btn-container">
+                        <button class ="btn" onclick="add1guest()">+1</button>
+                        <button class ="btn" onclick="add2guest()">+2</button>
+                        <button class ="btn" onclick="add3guest()">+3</button>    
+                    </div> 
+                    <button class = "btn reset" onclick ="resetGuest()">RESET</button>   
+                </div>
             </div>
-            <div>
-                <h3>VISITEUR</h3>
-                <div class = "screen">
-                     <h1 id="score-guest"></h1>
-                </div>  
-                <div class ="btn-container">
-                    <button class ="btn" onclick="add1guest()">+1</button>
-                    <button class ="btn" onclick="add2guest()">+2</button>
-                    <button class ="btn" onclick="add3guest()">+3</button>       
-                </div> 
-            </div>
-        </div>
+        </main>
         <script src="index.js"></script>
     </body>
 </html>
