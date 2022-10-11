@@ -12,7 +12,6 @@ This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.c
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
  
-- [Acknowlegement](#acknowledgement)
 - [Author](#author)
 
 ## Overview
@@ -46,11 +45,6 @@ I have continued with these stretch goals:
 - Add Reset buttons to reset points to 0
 - Change hover and active states to buttons
 - Adapt the overall design
-
-## Acknowledgements
-
-- [Scrimba](https://scrimba.com/)
-
 
 ## Author
 
