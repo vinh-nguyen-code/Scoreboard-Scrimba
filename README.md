@@ -1,4 +1,3 @@
-# Scoreboard-Scrimba
 Javascript Solo Project from SCRIMBA Frontend developper path (Module 3). Used to display basketball scores. Built from scratch.
 
 # Scrimba - Scoreboard solution
