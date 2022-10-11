@@ -11,7 +11,8 @@ This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.c
 - [Process](#process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  
+ 
+- [Acknowlegement](#acknowledgement)
 - [Author](#author)
 
 ## Overview
@@ -46,7 +47,7 @@ I have continued with these stretch goals:
 - Change hover and active states to buttons
 - Adapt the overall design
 
-### Acknowledgmenets
+## Acknowledgements
 
 - [Scrimba](https://scrimba.com/)
 
