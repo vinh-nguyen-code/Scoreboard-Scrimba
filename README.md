@@ -29,7 +29,7 @@ This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https:
 
 ### Links
 
-- Live Site: [@Netlify](https://basket-scoreboard-vinh.netlify.app)
+- Live Site: [LIVE](https://basket-scoreboard-vinh.netlify.app)
 
 ### Built with
 
@@ -56,7 +56,7 @@ I'd like to:
 
 ### Acknowledgmenets
 
-- Scrimba
+- [Scrimba](https://scrimba.com/)
 
 
 ## Author
