@@ -1,6 +1,6 @@
 # Scrimba - Scoreboard solution
 
-This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP) - [Frontend developper path](https://scrimba.com/learn/frontend).
+This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP) from the [Frontend developper path](https://scrimba.com/learn/frontend) on [Scrimba](https://scrimba.com/).
 
 ## Table of contents
 
