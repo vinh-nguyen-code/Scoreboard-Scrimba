@@ -1,8 +1,6 @@
-Javascript Solo Project from SCRIMBA Frontend developper path (Module 3). Used to display basketball scores. Built from scratch.
-
 # Scrimba - Scoreboard solution
 
-This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP).
+This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP) - Module 3 / Frontend developper path (https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
@@ -22,8 +20,8 @@ This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https:
 
 ### The challenge
 
-- Write top and bottom texts on memes via React form
-- Get a random meme image calling APIs
+- Display basketball scores according to a Figma design. 
+- Built from scratch.
 
 ### Screenshot
 
@@ -31,22 +29,14 @@ This is a solution to the [Basketball Scoreboard Solo Project on Scrimba](https:
 
 ### Links
 
-- Live Site URL: [@Netlify](https://meme-generator-xdelmo.netlify.app/)
-- Solution URL: [@GitHub](https://github.com/xdelmo/meme-generator)
-
-### Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## My process
+- Live Site: [@Netlify](https://basket-scoreboard-vinh.netlify.app)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- React.JS
-- Flexbox
-- CSS Grid
+- HTML5
+- CSS3
+- Javascript
+- Visual Studio Code
 
 ### What I learned
 
@@ -64,11 +54,11 @@ I'd like to:
 
 - Add a button to download meme generated including texts
 
-### Useful resources
+### Acknowledgmenets
 
-- [ReactJS](https://reactjs.org/tutorial/tutorial.html) - How to set up a local development environment on your computer
-- [StackOverflow](https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing) - How to push a footer to the bottom of page when content is short or missing
+- Scrimba
+
 
 ## Author
 
-- Website - [Emanuele Del Monte](https://www.emanueledelmonte.it)
+- Linkedin - [Vinh NGUYEN](https://www.linkedin.com/in/tuan-vinh-nguyen/)
