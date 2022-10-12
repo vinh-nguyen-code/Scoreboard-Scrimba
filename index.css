@@ -9,6 +9,19 @@ body {
     font-family: 'CursedTimerULiL';
 }
 
+.copyright{
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copyright a {
+    color:black
+}
+
+.copyright a:hover {
+    color:lightcoral
+}
 
 /* === Fonts === */
 @font-face {
