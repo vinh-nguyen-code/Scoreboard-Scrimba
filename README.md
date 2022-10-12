@@ -5,7 +5,7 @@ This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.c
 ## Table of contents
 
 - [Overview](#overview)
-  - [Requirements](#requirements)
+  - [Goals](#goals)
   - [Links](#links)
 
 - [Process](#process)
@@ -22,9 +22,14 @@ This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.c
 - Built from scratch.
 - Make all buttons work
 
+I have continued with these stretch goals:
+- Add Reset buttons to reset points to 0
+- Change hover and active states to buttons
+- Adapt the overall design
+
 ### Links
 
-- Live Site: [DEMO](https://basket-scoreboard-vinh.netlify.app)
+- Live Site: [DEMO](https://vinh-nguyen-code.github.io/Scoreboard-Scrimba/)
 
 ## Process
 
@@ -37,14 +42,9 @@ This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.c
 
 ### What I learned
 
-- Flex box
+- Flexbox
 - Semantic HTML
 - DOM
-
-I have continued with these stretch goals:
-- Add Reset buttons to reset points to 0
-- Change hover and active states to buttons
-- Adapt the overall design
 
 ## Author
 
